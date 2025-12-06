@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 69c17cdd6bccf0149a8d004e639846f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6988645002706456998
+    second: Globulo_blanco3_0
+  - first:
+      213: 7100241702255400574
+    second: Globulo_blanco3_1
+  - first:
+      213: -8719191838159821143
+    second: Globulo_blanco3_2
+  - first:
+      213: 8331187866401002269
+    second: Globulo_blanco3_3
+  - first:
+      213: 5778366037069266913
+    second: Globulo_blanco3_4
+  - first:
+      213: -5567481361503147879
+    second: Globulo_blanco3_5
+  - first:
+      213: -5627976624276808402
+    second: Globulo_blanco3_6
+  - first:
+      213: -7659538435669328792
+    second: Globulo_blanco3_7
+  - first:
+      213: 4142002741923642267
+    second: Globulo_blanco3_8
+  - first:
+      213: 5309680059454479895
+    second: Globulo_blanco3_9
+  - first:
+      213: 6410596523937080451
+    second: Globulo_blanco3_10
+  - first:
+      213: 6219923964159125747
+    second: Globulo_blanco3_11
+  - first:
+      213: -1510385740767506586
+    second: Globulo_blanco3_12
+  - first:
+      213: -8589196346701025729
+    second: Globulo_blanco3_13
+  - first:
+      213: -1432719620832623386
+    second: Globulo_blanco3_14
+  - first:
+      213: 6834117979357041924
+    second: Globulo_blanco3_15
+  - first:
+      213: 8143169372932738817
+    second: Globulo_blanco3_16
+  - first:
+      213: 7095065173788946260
+    second: Globulo_blanco3_17
+  - first:
+      213: -4100244593192700666
+    second: Globulo_blanco3_18
+  - first:
+      213: 1111899818509374485
+    second: Globulo_blanco3_19
+  - first:
+      213: 5806951917073802224
+    second: Globulo_blanco3_20
+  - first:
+      213: 5340824952398185119
+    second: Globulo_blanco3_21
+  - first:
+      213: -4507054507834328080
+    second: Globulo_blanco3_22
+  - first:
+      213: 1842905218410349041
+    second: Globulo_blanco3_23
+  - first:
+      213: 5874591570304748055
+    second: Globulo_blanco3_24
+  - first:
+      213: 1424794167744933735
+    second: Globulo_blanco3_25
+  - first:
+      213: -396197820781373301
+    second: Globulo_blanco3_26
+  - first:
+      213: -2164630446336115272
+    second: Globulo_blanco3_27
+  - first:
+      213: -4662058549460053077
+    second: Globulo_blanco3_28
+  - first:
+      213: 9049055056509807543
+    second: Globulo_blanco3_29
+  - first:
+      213: -7859789486985687867
+    second: Globulo_blanco3_30
+  - first:
+      213: -5864656772631278774
+    second: Globulo_blanco3_31
+  - first:
+      213: -7820540352914925578
+    second: Globulo_blanco3_32
+  - first:
+      213: -7831777070747990429
+    second: Globulo_blanco3_33
+  - first:
+      213: 1481588698272180067
+    second: Globulo_blanco3_34
+  - first:
+      213: -6286854870676863727
+    second: Globulo_blanco3_35
+  - first:
+      213: -243450274591164339
+    second: Globulo_blanco3_36
+  - first:
+      213: -4117796452246004504
+    second: Globulo_blanco3_37
+  - first:
+      213: 6263829686743331767
+    second: Globulo_blanco3_38
+  - first:
+      213: -7179491303089895197
+    second: Globulo_blanco3_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Globulo_blanco3_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 596
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e6f50c568530f90800000000000000
+      internalID: -6988645002706456998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 596
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e761952a530298260800000000000000
+      internalID: 7100241702255400574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 596
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6affd28353ff680800000000000000
+      internalID: -8719191838159821143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 596
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1350e559335e9370800000000000000
+      internalID: 8331187866401002269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 518
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eff1bdab41e03050800000000000000
+      internalID: 5778366037069266913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_5
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 518
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9982ff113355cb2b0800000000000000
+      internalID: -5567481361503147879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 518
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d57c9141965e1b0800000000000000
+      internalID: -5627976624276808402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 518
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c7a7eef5ad3b590800000000000000
+      internalID: -7659538435669328792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 440
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b7d0b6c895b7930800000000000000
+      internalID: 4142002741923642267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 440
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e52c6d1e5cfa940800000000000000
+      internalID: 5309680059454479895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 440
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384af9fd29307f850800000000000000
+      internalID: 6410596523937080451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 440
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8e4ad04eb915650800000000000000
+      internalID: 6219923964159125747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 365
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fccbfcb280a0be0800000000000000
+      internalID: -1510385740767506586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 365
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e6dc02e6b0dc880800000000000000
+      internalID: -8589196346701025729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 365
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e40a818815fd1ce0800000000000000
+      internalID: -1432719620832623386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 365
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405dfa0f71aa7de50800000000000000
+      internalID: 6834117979357041924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 293
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f0f7b7669520170800000000000000
+      internalID: 8143169372932738817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 284
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f6fed2f2cb67260800000000000000
+      internalID: 7095065173788946260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 287
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605788a34410917c0800000000000000
+      internalID: -4100244593192700666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_19
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 293
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514921c6ef24e6f00800000000000000
+      internalID: 1111899818509374485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_20
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 284
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f325f48000769050800000000000000
+      internalID: 5806951917073802224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_21
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 287
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f928c3f4ffb6e1a40800000000000000
+      internalID: 5340824952398185119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 215
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb3635fdc9b371c0800000000000000
+      internalID: -4507054507834328080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_23
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 209
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f100123880539910800000000000000
+      internalID: 1842905218410349041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 209
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ac48488edb68150800000000000000
+      internalID: 5874591570304748055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_25
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 212
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f2c762fb2e5c310800000000000000
+      internalID: 1424794167744933735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 209
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88da8f5e2c608af0800000000000000
+      internalID: -396197820781373301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 209
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdf328e310b5f1e0800000000000000
+      internalID: -2164630446336115272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 137
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba35c5d237a0d4fb0800000000000000
+      internalID: -4662058549460053077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_29
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 128
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb283441a3b49d70800000000000000
+      internalID: 9049055056509807543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 131
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc4ed2ca1b6ce290800000000000000
+      internalID: -7859789486985687867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_31
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 137
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b49b1dcbd8c9ea0800000000000000
+      internalID: -5864656772631278774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_32
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 128
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7d5e8ebfbd77390800000000000000
+      internalID: -7820540352914925578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_33
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 131
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366440aaf30ff4390800000000000000
+      internalID: -7831777070747990429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 59
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3672fbf3219af8410800000000000000
+      internalID: 1481588698272180067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_35
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 53
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1150fd6edca90c8a0800000000000000
+      internalID: -6286854870676863727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_36
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 53
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48b58ed3471f9cf0800000000000000
+      internalID: -243450274591164339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_37
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 56
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec538691f5aad6c0800000000000000
+      internalID: -4117796452246004504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_38
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 53
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3f1e3b9e79de650800000000000000
+      internalID: 6263829686743331767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globulo_blanco3_39
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 53
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8025bc2b25d5c90800000000000000
+      internalID: -7179491303089895197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Globulo_blanco3_0: -6988645002706456998
+      Globulo_blanco3_1: 7100241702255400574
+      Globulo_blanco3_10: 6410596523937080451
+      Globulo_blanco3_11: 6219923964159125747
+      Globulo_blanco3_12: -1510385740767506586
+      Globulo_blanco3_13: -8589196346701025729
+      Globulo_blanco3_14: -1432719620832623386
+      Globulo_blanco3_15: 6834117979357041924
+      Globulo_blanco3_16: 8143169372932738817
+      Globulo_blanco3_17: 7095065173788946260
+      Globulo_blanco3_18: -4100244593192700666
+      Globulo_blanco3_19: 1111899818509374485
+      Globulo_blanco3_2: -8719191838159821143
+      Globulo_blanco3_20: 5806951917073802224
+      Globulo_blanco3_21: 5340824952398185119
+      Globulo_blanco3_22: -4507054507834328080
+      Globulo_blanco3_23: 1842905218410349041
+      Globulo_blanco3_24: 5874591570304748055
+      Globulo_blanco3_25: 1424794167744933735
+      Globulo_blanco3_26: -396197820781373301
+      Globulo_blanco3_27: -2164630446336115272
+      Globulo_blanco3_28: -4662058549460053077
+      Globulo_blanco3_29: 9049055056509807543
+      Globulo_blanco3_3: 8331187866401002269
+      Globulo_blanco3_30: -7859789486985687867
+      Globulo_blanco3_31: -5864656772631278774
+      Globulo_blanco3_32: -7820540352914925578
+      Globulo_blanco3_33: -7831777070747990429
+      Globulo_blanco3_34: 1481588698272180067
+      Globulo_blanco3_35: -6286854870676863727
+      Globulo_blanco3_36: -243450274591164339
+      Globulo_blanco3_37: -4117796452246004504
+      Globulo_blanco3_38: 6263829686743331767
+      Globulo_blanco3_39: -7179491303089895197
+      Globulo_blanco3_4: 5778366037069266913
+      Globulo_blanco3_5: -5567481361503147879
+      Globulo_blanco3_6: -5627976624276808402
+      Globulo_blanco3_7: -7659538435669328792
+      Globulo_blanco3_8: 4142002741923642267
+      Globulo_blanco3_9: 5309680059454479895
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

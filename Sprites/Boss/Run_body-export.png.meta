@@ -1,0 +1,1318 @@
+fileFormatVersion: 2
+guid: e6ed2bcc277e1ac45a6900c31ec380fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6013163653664278657
+    second: Run_body-export_0
+  - first:
+      213: 5251027793464238755
+    second: Run_body-export_1
+  - first:
+      213: -6233240783639230279
+    second: Run_body-export_2
+  - first:
+      213: 5130092386723114186
+    second: Run_body-export_3
+  - first:
+      213: -7973946427588101139
+    second: Run_body-export_4
+  - first:
+      213: 7336193892168062495
+    second: Run_body-export_5
+  - first:
+      213: -7072741204324134549
+    second: Run_body-export_6
+  - first:
+      213: 71511650147632382
+    second: Run_body-export_7
+  - first:
+      213: 4029356713968004495
+    second: Run_body-export_8
+  - first:
+      213: 5791376582406679865
+    second: Run_body-export_9
+  - first:
+      213: -7856627059852096461
+    second: Run_body-export_10
+  - first:
+      213: 940349792632639046
+    second: Run_body-export_11
+  - first:
+      213: 7922483378509845180
+    second: Run_body-export_12
+  - first:
+      213: -659364075340616970
+    second: Run_body-export_13
+  - first:
+      213: 6033598639337368634
+    second: Run_body-export_14
+  - first:
+      213: 4261903393353884781
+    second: Run_body-export_15
+  - first:
+      213: -2760814538304801285
+    second: Run_body-export_16
+  - first:
+      213: 3712847294482108275
+    second: Run_body-export_17
+  - first:
+      213: 366762976716475132
+    second: Run_body-export_18
+  - first:
+      213: 7803530905868378588
+    second: Run_body-export_19
+  - first:
+      213: 4869757291665873431
+    second: Run_body-export_20
+  - first:
+      213: 4009983053050182567
+    second: Run_body-export_21
+  - first:
+      213: 2705730663843962183
+    second: Run_body-export_22
+  - first:
+      213: -8885851168445285373
+    second: Run_body-export_23
+  - first:
+      213: -7472461984367674682
+    second: Run_body-export_24
+  - first:
+      213: 3926809614513388353
+    second: Run_body-export_25
+  - first:
+      213: -1596370035992921342
+    second: Run_body-export_26
+  - first:
+      213: 2157031565129114069
+    second: Run_body-export_27
+  - first:
+      213: 3356697310963768780
+    second: Run_body-export_28
+  - first:
+      213: 5395293550321594815
+    second: Run_body-export_29
+  - first:
+      213: -671631774841293881
+    second: Run_body-export_30
+  - first:
+      213: -261292090731612336
+    second: Run_body-export_31
+  - first:
+      213: 1108496345762992405
+    second: Run_body-export_32
+  - first:
+      213: 6724056780747916078
+    second: Run_body-export_33
+  - first:
+      213: -2224976222460406126
+    second: Run_body-export_34
+  - first:
+      213: 4655204191738641300
+    second: Run_body-export_35
+  - first:
+      213: 1170588999555847310
+    second: Run_body-export_36
+  - first:
+      213: -6022943744656796974
+    second: Run_body-export_37
+  - first:
+      213: -7709612052697822314
+    second: Run_body-export_38
+  - first:
+      213: 4417114576580757200
+    second: Run_body-export_39
+  - first:
+      213: -366452058504903907
+    second: Run_body-export_40
+  - first:
+      213: -1111293982767191513
+    second: Run_body-export_41
+  - first:
+      213: -8016147351559693718
+    second: Run_body-export_42
+  - first:
+      213: -6403022163439979050
+    second: Run_body-export_43
+  - first:
+      213: 1668909416228577871
+    second: Run_body-export_44
+  - first:
+      213: -390032953118669128
+    second: Run_body-export_45
+  - first:
+      213: -2480978728455506542
+    second: Run_body-export_46
+  - first:
+      213: -4665319341475601121
+    second: Run_body-export_47
+  - first:
+      213: 4928627066454386151
+    second: Run_body-export_48
+  - first:
+      213: -3286471030286070363
+    second: Run_body-export_49
+  - first:
+      213: 2301832652533920736
+    second: Run_body-export_50
+  - first:
+      213: -3759903971049884062
+    second: Run_body-export_51
+  - first:
+      213: 6981564070066245981
+    second: Run_body-export_52
+  - first:
+      213: -3061804076698879836
+    second: Run_body-export_53
+  - first:
+      213: -8579502611930137860
+    second: Run_body-export_54
+  - first:
+      213: -6070349268661267570
+    second: Run_body-export_55
+  - first:
+      213: -1530975001329088999
+    second: Run_body-export_56
+  - first:
+      213: -3880499125123014893
+    second: Run_body-export_57
+  - first:
+      213: 5062501198126670274
+    second: Run_body-export_58
+  - first:
+      213: 6492977909792582327
+    second: Run_body-export_59
+  - first:
+      213: 8404264367932632769
+    second: Run_body-export_60
+  - first:
+      213: 6746040722963200868
+    second: Run_body-export_61
+  - first:
+      213: -6696108945884071966
+    second: Run_body-export_62
+  - first:
+      213: -852775280373003862
+    second: Run_body-export_63
+  - first:
+      213: 6417961754033993445
+    second: Run_body-export_64
+  - first:
+      213: -2352721554118967306
+    second: Run_body-export_65
+  - first:
+      213: 8948066127007139681
+    second: Run_body-export_66
+  - first:
+      213: 4687671961472896913
+    second: Run_body-export_67
+  - first:
+      213: -2660762370786228405
+    second: Run_body-export_68
+  - first:
+      213: 7528412347652000996
+    second: Run_body-export_69
+  - first:
+      213: 3772068900022027848
+    second: Run_body-export_70
+  - first:
+      213: 3394800385098942410
+    second: Run_body-export_71
+  - first:
+      213: 6330245050166480770
+    second: Run_body-export_72
+  - first:
+      213: -3601087631380557395
+    second: Run_body-export_73
+  - first:
+      213: 4954319884155461897
+    second: Run_body-export_74
+  - first:
+      213: 2234772474121302392
+    second: Run_body-export_75
+  - first:
+      213: 6727957791035978047
+    second: Run_body-export_76
+  - first:
+      213: -5494107657909435666
+    second: Run_body-export_77
+  - first:
+      213: 8946479562287377966
+    second: Run_body-export_78
+  - first:
+      213: 3021862713617832539
+    second: Run_body-export_79
+  - first:
+      213: -8231676033065367581
+    second: Run_body-export_80
+  - first:
+      213: -928779069771707060
+    second: Run_body-export_81
+  - first:
+      213: -4486973822942646236
+    second: Run_body-export_82
+  - first:
+      213: 3947369573137731432
+    second: Run_body-export_83
+  - first:
+      213: 9041260638491390336
+    second: Run_body-export_84
+  - first:
+      213: -102163384924220550
+    second: Run_body-export_85
+  - first:
+      213: 6609251090502985136
+    second: Run_body-export_86
+  - first:
+      213: -6369224970257806049
+    second: Run_body-export_87
+  - first:
+      213: 1027466509689699272
+    second: Run_body-export_88
+  - first:
+      213: -7380548672056108205
+    second: Run_body-export_89
+  - first:
+      213: -7363046277450390139
+    second: Run_body-export_90
+  - first:
+      213: -1349897544440819081
+    second: Run_body-export_91
+  - first:
+      213: 8350820723440954460
+    second: Run_body-export_92
+  - first:
+      213: -5443010172868924476
+    second: Run_body-export_93
+  - first:
+      213: -5206842146711047634
+    second: Run_body-export_94
+  - first:
+      213: 2447440893568452669
+    second: Run_body-export_95
+  - first:
+      213: 4759830426392784177
+    second: Run_body-export_96
+  - first:
+      213: -1130540031869455322
+    second: Run_body-export_97
+  - first:
+      213: 6639702342055105183
+    second: Run_body-export_98
+  - first:
+      213: 3509816479833766844
+    second: Run_body-export_99
+  - first:
+      213: -7764389299131072108
+    second: Run_body-export_100
+  - first:
+      213: -737862318066910053
+    second: Run_body-export_101
+  - first:
+      213: 3109784889370618924
+    second: Run_body-export_102
+  - first:
+      213: 5149675963641499406
+    second: Run_body-export_103
+  - first:
+      213: 2702082017728533957
+    second: Run_body-export_104
+  - first:
+      213: -2272823663178990020
+    second: Run_body-export_105
+  - first:
+      213: 905925134003582152
+    second: Run_body-export_106
+  - first:
+      213: -8488051616646680196
+    second: Run_body-export_107
+  - first:
+      213: -2104786543496595452
+    second: Run_body-export_108
+  - first:
+      213: 5717292475292381553
+    second: Run_body-export_109
+  - first:
+      213: -339226939245699512
+    second: Run_body-export_110
+  - first:
+      213: -507401223064959076
+    second: Run_body-export_111
+  - first:
+      213: 8580237355026135704
+    second: Run_body-export_112
+  - first:
+      213: -8696316160281574717
+    second: Run_body-export_113
+  - first:
+      213: 4356680017605601488
+    second: Run_body-export_114
+  - first:
+      213: 5217809104067352318
+    second: Run_body-export_115
+  - first:
+      213: 8871040888235643794
+    second: Run_body-export_116
+  - first:
+      213: 7232793451285364820
+    second: Run_body-export_117
+  - first:
+      213: 1135397581013437027
+    second: Run_body-export_118
+  - first:
+      213: -2638073583480570882
+    second: Run_body-export_119
+  - first:
+      213: 4989810489801125839
+    second: Run_body-export_120
+  - first:
+      213: -3167889195549264114
+    second: Run_body-export_121
+  - first:
+      213: 7257062211408921538
+    second: Run_body-export_122
+  - first:
+      213: 2729871138238033217
+    second: Run_body-export_123
+  - first:
+      213: 2236483130041738955
+    second: Run_body-export_124
+  - first:
+      213: -6945893228466023009
+    second: Run_body-export_125
+  - first:
+      213: 5776004296547029201
+    second: Run_body-export_126
+  - first:
+      213: -4851269526474921133
+    second: Run_body-export_127
+  - first:
+      213: 4737820357244413641
+    second: Run_body-export_128
+  - first:
+      213: -421930389008645503
+    second: Run_body-export_129
+  - first:
+      213: -1126692673260594966
+    second: Run_body-export_130
+  - first:
+      213: 3278900217396829171
+    second: Run_body-export_131
+  - first:
+      213: -1891236507636354355
+    second: Run_body-export_132
+  - first:
+      213: -8751541051305874345
+    second: Run_body-export_133
+  - first:
+      213: 3679506064268024766
+    second: Run_body-export_134
+  - first:
+      213: 472867151130448695
+    second: Run_body-export_135
+  - first:
+      213: -1283291683624869576
+    second: Run_body-export_136
+  - first:
+      213: -6968045946159585642
+    second: Run_body-export_137
+  - first:
+      213: -3513216449852403735
+    second: Run_body-export_138
+  - first:
+      213: 320733735339219570
+    second: Run_body-export_139
+  - first:
+      213: 7184004998838152035
+    second: Run_body-export_140
+  - first:
+      213: 8556831856786869882
+    second: Run_body-export_141
+  - first:
+      213: -3852697250549680684
+    second: Run_body-export_142
+  - first:
+      213: 8798677000869922412
+    second: Run_body-export_143
+  - first:
+      213: 5635146600233444130
+    second: Run_body-export_144
+  - first:
+      213: -1147712372899360756
+    second: Run_body-export_145
+  - first:
+      213: -5460056009248543037
+    second: Run_body-export_146
+  - first:
+      213: -5983453547072349845
+    second: Run_body-export_147
+  - first:
+      213: -3342451750428196795
+    second: Run_body-export_148
+  - first:
+      213: 174855647754807555
+    second: Run_body-export_149
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Run_body-export_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18803f0eb7c037350800000000000000
+      internalID: 6013163653664278657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2a32ff4f56fd840800000000000000
+      internalID: 5251027793464238755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8c4bb48841f79a0800000000000000
+      internalID: -6233240783639230279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc219768dfb13740800000000000000
+      internalID: 5130092386723114186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debbd9dc8f9d65190800000000000000
+      internalID: -7973946427588101139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f165112e9756fc560800000000000000
+      internalID: 7336193892168062495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61ddfff85398dd90800000000000000
+      internalID: -7072741204324134549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef40a58877f0ef000800000000000000
+      internalID: 71511650147632382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8de56935962be730800000000000000
+      internalID: 4029356713968004495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dadd2515a1f5050800000000000000
+      internalID: 5791376582406679865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c4bc4b057a7f290800000000000000
+      internalID: -7856627059852096461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e0b7a772bcc0d00800000000000000
+      internalID: 940349792632639046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2140b58a052fd60800000000000000
+      internalID: 7922483378509845180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa2bafedd779d6f0800000000000000
+      internalID: -659364075340616970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cebfebef5abb350800000000000000
+      internalID: 6033598639337368634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_15
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64e3e34e82552b30800000000000000
+      internalID: 4261903393353884781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5bb990ecd9fa9d0800000000000000
+      internalID: -2760814538304801285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f40ec51fea68330800000000000000
+      internalID: 3712847294482108275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa43ffebf0071500800000000000000
+      internalID: 366762976716475132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd121169306bb4c60800000000000000
+      internalID: 7803530905868378588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71adc18a47ad49340800000000000000
+      internalID: 4869757291665873431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab7468475256a730800000000000000
+      internalID: 4009983053050182567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d1d4404bfac8520800000000000000
+      internalID: 2705730663843962183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_23
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c34d9017d1fa480800000000000000
+      internalID: -8885851168445285373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca77208a6b7c4890800000000000000
+      internalID: -7472461984367674682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bb8ad0a84de7630800000000000000
+      internalID: 3926809614513388353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b709209ed88d9e0800000000000000
+      internalID: -1596370035992921342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d163d0b7c05fed10800000000000000
+      internalID: 2157031565129114069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd11867b62659e20800000000000000
+      internalID: 3356697310963768780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1ffd506eeefda40800000000000000
+      internalID: 5395293550321594815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_30
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c338b09572eda6f0800000000000000
+      internalID: -671631774841293881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_body-export_31
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057b2555a34bf5cf0800000000000000
+      internalID: -261292090731612336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f583203ec818a144292f108231110c52
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":4.0},"gridSpriteSize":{"x":256.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Run_body-export_0: 6013163653664278657
+      Run_body-export_1: 5251027793464238755
+      Run_body-export_10: -7856627059852096461
+      Run_body-export_11: 940349792632639046
+      Run_body-export_12: 7922483378509845180
+      Run_body-export_13: -659364075340616970
+      Run_body-export_14: 6033598639337368634
+      Run_body-export_15: 4261903393353884781
+      Run_body-export_16: -2760814538304801285
+      Run_body-export_17: 3712847294482108275
+      Run_body-export_18: 366762976716475132
+      Run_body-export_19: 7803530905868378588
+      Run_body-export_2: -6233240783639230279
+      Run_body-export_20: 4869757291665873431
+      Run_body-export_21: 4009983053050182567
+      Run_body-export_22: 2705730663843962183
+      Run_body-export_23: -8885851168445285373
+      Run_body-export_24: -7472461984367674682
+      Run_body-export_25: 3926809614513388353
+      Run_body-export_26: -1596370035992921342
+      Run_body-export_27: 2157031565129114069
+      Run_body-export_28: 3356697310963768780
+      Run_body-export_29: 5395293550321594815
+      Run_body-export_3: 5130092386723114186
+      Run_body-export_30: -671631774841293881
+      Run_body-export_31: -261292090731612336
+      Run_body-export_4: -7973946427588101139
+      Run_body-export_5: 7336193892168062495
+      Run_body-export_6: -7072741204324134549
+      Run_body-export_7: 71511650147632382
+      Run_body-export_8: 4029356713968004495
+      Run_body-export_9: 5791376582406679865
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

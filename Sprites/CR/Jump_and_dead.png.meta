@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 7bcb1edd87484f640924b19c18285ccd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3214749364575334233
+    second: Jump_and_dead_0
+  - first:
+      213: 7471602573205512812
+    second: Jump_and_dead_1
+  - first:
+      213: 2000359665926851354
+    second: Jump_and_dead_2
+  - first:
+      213: -9163176930291344089
+    second: Jump_and_dead_3
+  - first:
+      213: -8113183639280708661
+    second: Jump_and_dead_4
+  - first:
+      213: 8940446613971637533
+    second: Jump_and_dead_5
+  - first:
+      213: -4505276498010234271
+    second: Jump_and_dead_6
+  - first:
+      213: 1890843535384547151
+    second: Jump_and_dead_7
+  - first:
+      213: 7197078702223320597
+    second: Jump_and_dead_8
+  - first:
+      213: -1054239081461129904
+    second: Jump_and_dead_9
+  - first:
+      213: 4816161980128915929
+    second: Jump_and_dead_10
+  - first:
+      213: 6598365303843517677
+    second: Jump_and_dead_11
+  - first:
+      213: 3966434063771763627
+    second: Jump_and_dead_12
+  - first:
+      213: -1752484522369477792
+    second: Jump_and_dead_13
+  - first:
+      213: -5490238509528204846
+    second: Jump_and_dead_14
+  - first:
+      213: 8325440512348626242
+    second: Jump_and_dead_15
+  - first:
+      213: 4509164062313556326
+    second: Jump_and_dead_16
+  - first:
+      213: -2696356997424229198
+    second: Jump_and_dead_17
+  - first:
+      213: -4982988821507663308
+    second: Jump_and_dead_18
+  - first:
+      213: 2006207264531437039
+    second: Jump_and_dead_19
+  - first:
+      213: 5801547851156824707
+    second: Jump_and_dead_20
+  - first:
+      213: -6243499165328762885
+    second: Jump_and_dead_21
+  - first:
+      213: -9215879285694447333
+    second: Jump_and_dead_22
+  - first:
+      213: -7531080735609258233
+    second: Jump_and_dead_23
+  - first:
+      213: 7728058421113775246
+    second: Jump_and_dead_24
+  - first:
+      213: 7122183104453202084
+    second: Jump_and_dead_25
+  - first:
+      213: -7229156374856101619
+    second: Jump_and_dead_26
+  - first:
+      213: 7725255060112889627
+    second: Jump_and_dead_27
+  - first:
+      213: 6226778050948463308
+    second: Jump_and_dead_28
+  - first:
+      213: 7860069894297737030
+    second: Jump_and_dead_29
+  - first:
+      213: 2610196400109546975
+    second: Jump_and_dead_30
+  - first:
+      213: 2589767662059605301
+    second: Jump_and_dead_31
+  - first:
+      213: -8604731306945686617
+    second: Jump_and_dead_32
+  - first:
+      213: 2582630074885983188
+    second: Jump_and_dead_33
+  - first:
+      213: 5915119866242761512
+    second: Jump_and_dead_34
+  - first:
+      213: -5582800439719640524
+    second: Jump_and_dead_35
+  - first:
+      213: 3519081483088815335
+    second: Jump_and_dead_36
+  - first:
+      213: 4986523907067006084
+    second: Jump_and_dead_37
+  - first:
+      213: 6357085012718202978
+    second: Jump_and_dead_38
+  - first:
+      213: -1820993124948868040
+    second: Jump_and_dead_39
+  - first:
+      213: 3178974185830908327
+    second: Jump_and_dead_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jump_and_dead_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 686
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a013924c7ae263d0800000000000000
+      internalID: -3214749364575334233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 689
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c622fce34f670b760800000000000000
+      internalID: 7471602573205512812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 686
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bc69e8484b2cb10800000000000000
+      internalID: 2000359665926851354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 680
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d1ee7612bd5d080800000000000000
+      internalID: -9163176930291344089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 674
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3992f277e286f80800000000000000
+      internalID: -8113183639280708661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 674
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d159f1fa3d8d21c70800000000000000
+      internalID: 8940446613971637533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 674
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1622f2125ea0a71c0800000000000000
+      internalID: -4505276498010234271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 674
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f80746d20ad3a10800000000000000
+      internalID: 1890843535384547151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 680
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516ec8aa2f821e360800000000000000
+      internalID: 7197078702223320597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 608
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ddc2914279e51f0800000000000000
+      internalID: -1054239081461129904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 611
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d17356cdc176d240800000000000000
+      internalID: 4816161980128915929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 608
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4fad1c84a129b50800000000000000
+      internalID: 6598365303843517677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 602
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3002414ca9b0730800000000000000
+      internalID: 3966434063771763627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_13
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 596
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0631cc9ac9ceda7e0800000000000000
+      internalID: -1752484522369477792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 596
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9b6630a21cec3b0800000000000000
+      internalID: -5490238509528204846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_15
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 596
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d9f213908e98370800000000000000
+      internalID: 8325440512348626242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 596
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6692828f2d4c39e30800000000000000
+      internalID: 4509164062313556326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_17
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 602
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4d3e4c89d949ad0800000000000000
+      internalID: -2696356997424229198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 530
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a1b4e511ed8dab0800000000000000
+      internalID: -4982988821507663308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 533
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe55434b0ea77db10800000000000000
+      internalID: 2006207264531437039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_20
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 530
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38222af580d338050800000000000000
+      internalID: 5801547851156824707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 524
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7912fa692aa59a0800000000000000
+      internalID: -6243499165328762885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_22
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 518
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b114d431e9e9a1080800000000000000
+      internalID: -9215879285694447333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_23
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 521
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ff83be8f93c7790800000000000000
+      internalID: -7531080735609258233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_24
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 521
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84e3f160349f3b60800000000000000
+      internalID: 7728058421113775246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_25
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 521
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0d83e6cc317d260800000000000000
+      internalID: 7122183104453202084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_26
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 527
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0193fa2490ecab90800000000000000
+      internalID: -7229156374856101619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 452
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1751590c8e953b60800000000000000
+      internalID: 7725255060112889627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 455
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca7bfd75a5f96650800000000000000
+      internalID: 6226778050948463308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_29
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 452
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647db57ace3941d60800000000000000
+      internalID: 7860069894297737030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 446
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd6886ebc7493420800000000000000
+      internalID: 2610196400109546975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_31
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 440
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d4bdba7f3b0f320800000000000000
+      internalID: 2589767662059605301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_32
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 443
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3d1d5577ad59880800000000000000
+      internalID: -8604731306945686617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_33
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 443
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbc1d7ae5857d320800000000000000
+      internalID: 2582630074885983188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_34
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 443
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823814fbd2ab61250800000000000000
+      internalID: 5915119866242761512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_35
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 449
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432cd9a3498e582b0800000000000000
+      internalID: -5582800439719640524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 296
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4e927c6f946d030800000000000000
+      internalID: 3519081483088815335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_37
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 296
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cc8b0e211b33540800000000000000
+      internalID: 4986523907067006084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_38
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 296
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26037064327e83850800000000000000
+      internalID: 6357085012718202978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_39
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 296
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8348ef0a6688ab6e0800000000000000
+      internalID: -1820993124948868040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_and_dead_40
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 296
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a18698dd2cfd1c20800000000000000
+      internalID: 3178974185830908327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jump_and_dead_0: -3214749364575334233
+      Jump_and_dead_1: 7471602573205512812
+      Jump_and_dead_10: 4816161980128915929
+      Jump_and_dead_11: 6598365303843517677
+      Jump_and_dead_12: 3966434063771763627
+      Jump_and_dead_13: -1752484522369477792
+      Jump_and_dead_14: -5490238509528204846
+      Jump_and_dead_15: 8325440512348626242
+      Jump_and_dead_16: 4509164062313556326
+      Jump_and_dead_17: -2696356997424229198
+      Jump_and_dead_18: -4982988821507663308
+      Jump_and_dead_19: 2006207264531437039
+      Jump_and_dead_2: 2000359665926851354
+      Jump_and_dead_20: 5801547851156824707
+      Jump_and_dead_21: -6243499165328762885
+      Jump_and_dead_22: -9215879285694447333
+      Jump_and_dead_23: -7531080735609258233
+      Jump_and_dead_24: 7728058421113775246
+      Jump_and_dead_25: 7122183104453202084
+      Jump_and_dead_26: -7229156374856101619
+      Jump_and_dead_27: 7725255060112889627
+      Jump_and_dead_28: 6226778050948463308
+      Jump_and_dead_29: 7860069894297737030
+      Jump_and_dead_3: -9163176930291344089
+      Jump_and_dead_30: 2610196400109546975
+      Jump_and_dead_31: 2589767662059605301
+      Jump_and_dead_32: -8604731306945686617
+      Jump_and_dead_33: 2582630074885983188
+      Jump_and_dead_34: 5915119866242761512
+      Jump_and_dead_35: -5582800439719640524
+      Jump_and_dead_36: 3519081483088815335
+      Jump_and_dead_37: 4986523907067006084
+      Jump_and_dead_38: 6357085012718202978
+      Jump_and_dead_39: -1820993124948868040
+      Jump_and_dead_4: -8113183639280708661
+      Jump_and_dead_40: 3178974185830908327
+      Jump_and_dead_5: 8940446613971637533
+      Jump_and_dead_6: -4505276498010234271
+      Jump_and_dead_7: 1890843535384547151
+      Jump_and_dead_8: 7197078702223320597
+      Jump_and_dead_9: -1054239081461129904
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
