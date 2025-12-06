@@ -46,9 +46,3 @@ Cada run está pensada para ser intensa, rejugable y centrada en habilidad: esqu
 - **Aseprite** (pixel art)
 
 ---
-
-## Cómo ejecutar el proyecto en local
-
-1. Clona el repositorio:
-   ```bash
-   git clone <URL_DE_TU_REPO>
